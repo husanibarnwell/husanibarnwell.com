@@ -55,7 +55,7 @@ a {
 div { vertical-align: top; }
 
 body {
-  margin: 40px;
+  margin: 0;
   padding: 0;
   font-size: 0;
   color: #fff;
@@ -79,8 +79,9 @@ a.active {
 }
 
 .wrapper {
-  width: 1200px;
-  margin: 0 auto;
+  width: 100%;
+  padding-left: 15%;
+  padding-top: 40px;
 }
 
 .logo {
@@ -92,15 +93,17 @@ a.active {
 }
 
 .nav {
-  width: 165px;
-  display: inline-block;
   font-size: 16px;
   margin: 0 30px 0 0;
+  position: fixed;
+  top: 40px;
+  left: 40px;
 }
 
 .content {
-  width: 652px;
+  width: 75%;
   font-size: 16px;
+  padding-right: 40px;
   display: inline-block;
   font-weight: bold;
 }
@@ -111,17 +114,57 @@ a.active {
   top: -45px;
 }
 
-p.listhead {
+.listhead {
   font-weight: bold;
+  padding-bottom: 16px;
+}
+
+p.nomargin {
+  margin-top: 0;
 }
 
 .sidebar {
-  position: relative;
-  top: 15px;
-  margin: 0 0 0 30px;
-  width: 263px;
+  width: 25%;
+  padding: 0 40px 0 20px;
   display: inline-block;
   border-left: 2px solid #fff;
-  padding: 0 0 0 20px;
   font-size: 16px;
+}
+
+ul {
+  margin-bottom: 32px;
+}
+
+
+@media screen and (max-width: 1150px) {
+  .content {
+    width: 100%;
+  }
+  .sidebar {
+    border: none;
+    padding: 0;
+    border-top: 2px solid white;
+    padding-top: 20px;
+    margin-top: 40px;
+    width: 100%;
+    
+  }
+
+  .sidebar ul {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 20px;
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .wrapper {
+    padding-left: 25%;
+  }
+  .sidebar ul {
+    display: block;
+    width: 100%;
+  }
+
 }
