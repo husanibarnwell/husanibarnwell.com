@@ -111,6 +111,10 @@ a.active {
   top: -45px;
 }
 
+p.listhead {
+  font-weight: bold;
+}
+
 .sidebar {
   position: relative;
   top: 15px;
