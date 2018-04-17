@@ -72,6 +72,7 @@ p {
   font-size: 48px;
   position: relative;
   top: -10px;
+  line-height: 30%;
   /* padding-bottom: 10px; */
 }
 
