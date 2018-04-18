@@ -41,7 +41,7 @@ a.active {
 }
 
 p {
-  line-height: 80%;
+  line-height: 20px;
   padding-left: -50px;
 }
 
@@ -138,6 +138,10 @@ ul {
     /* padding-left: 10px; */
   }
   .leadin {
+    font-size: 36px;  
+    padding-left: 30px;
+  }
+  .leadin2 {
     font-size: 36px;  
     padding-left: 30px;
   }
