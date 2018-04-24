@@ -3,7 +3,7 @@ div { vertical-align: top; }
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 0 200px 0;
   font-size: 0;
   color: #fff;
   background: #A90606;
@@ -47,6 +47,7 @@ p {
 
 .smalltxt {
   font-size: 16px;
+  margin-right: 100px;
 }
 
 .leadin2 img {
@@ -118,6 +119,12 @@ p.nomargin {
 
 ul {
   margin-bottom: 32px;
+}
+
+.photos img { 
+  width: 100%;
+  margin-top: 20px;
+  margin-right: 400px;
 }
 
 
