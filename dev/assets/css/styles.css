@@ -20,6 +20,7 @@ ul, li {
   margin: 0;
   padding: 0px;
   line-height: 22px;
+  letter-spacing: .5px;
 }
 
 a { 
@@ -58,6 +59,7 @@ p {
 .smalltxt {
   font-size: 16px;
   margin-right: 100px;
+  letter-spacing: .5px;
 }
 
 .bump-up {
