@@ -148,10 +148,10 @@ ul {
 }
 
 .photos img { 
-  width: 100%;
+  width: 92%;
   margin-top: 20px;
-  margin-right: 400px;
-  padding-right: 80px;
+  /* margin-right: 400px; */
+  /* padding-right: 80px; */
 }
 .tonicphotos img { 
   width: 92%;
@@ -170,6 +170,7 @@ ul {
 .footer {
   text-align: center;
   padding-top: 57px;
+  padding-right: 80px;
   /* margin-left: 300px;
   margin-right: 100px;  */
 }
@@ -199,6 +200,12 @@ ul {
     padding-top: 20px;
     margin-top: 40px;
     width: calc(100% - 40px);
+  }
+  .footer {
+    text-align: center;
+    padding-top: 57px;
+    padding-right: 5px;
+    padding-left: 15px;
   }
 
   .sidebar ul {
@@ -250,3 +257,6 @@ ul {
   .video {
     padding-left: 30px;
   }
+  .footer {
+    text-align: center;
+    padding-left: 60px;
