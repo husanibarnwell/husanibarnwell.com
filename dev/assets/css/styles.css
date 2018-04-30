@@ -154,11 +154,10 @@ ul {
   padding-right: 80px;
 }
 .tonicphotos img { 
-  width: 95%;
+  width: 92%;
   margin-top: 20px;
-  margin-right: 400px;
-  /* padding-right: 80px; */
-  border:1px solid #021a40;
+  /* margin-right: 400px; */
+  border:1px solid #c4c5c5;
 }
 .video div {
   margin-right: 80px;
