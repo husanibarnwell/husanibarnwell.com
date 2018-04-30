@@ -161,6 +161,9 @@ ul {
   /* margin-right: 400px; */
   border:1px solid #c4c5c5;
 }
+.smallerimage {
+  width: 100%
+}
 
 .video div {
   /* margin-right: 80px; */
