@@ -59,7 +59,7 @@ p {
 
 .smalltxt {
   font-size: 16px;
-  margin-right: 100px;
+  margin-right: 110px;
   letter-spacing: .75px;
 }
 
@@ -160,7 +160,9 @@ ul {
   border:1px solid #c4c5c5;
 }
 .video div {
-  margin-right: 80px;
+  /* margin-right: 80px; */
+  width: 92%;
+
 }
 .descriptiontext {
   font-size: 36px;
