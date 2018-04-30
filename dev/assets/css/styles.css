@@ -153,7 +153,13 @@ ul {
   margin-right: 400px;
   padding-right: 80px;
 }
-
+.tonicphotos img { 
+  width: 100%;
+  margin-top: 20px;
+  margin-right: 400px;
+  padding-right: 80px;
+  border:1px solid #021a40;
+}
 .video div {
   margin-right: 80px;
 }
