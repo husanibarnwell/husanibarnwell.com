@@ -106,13 +106,13 @@ p {
   letter-spacing: 1px;
 }
 
-
 .leadin {
   font-size: 48px;
   position: relative;
   top: -45px;
   line-height: 60px;
 }
+
 .leadin2 {
   font-size: 48px;
   line-height: 50px;
@@ -143,6 +143,7 @@ p.nomargin {
 .spacer {
   padding-top:60px;
 }
+
 ul {
   margin-bottom: 32px;
 }
@@ -153,12 +154,14 @@ ul {
   /* margin-right: 400px; */
   /* padding-right: 80px; */
 }
+
 .tonicphotos img { 
   width: 92%;
   margin-top: 20px;
   /* margin-right: 400px; */
   border:1px solid #c4c5c5;
 }
+
 .video div {
   /* margin-right: 80px; */
   width: 92%;
@@ -167,7 +170,6 @@ ul {
 .descriptiontext {
   font-size: 36px;
 }
-
 
 .footer {
   text-align: center;
@@ -195,6 +197,7 @@ ul {
   .content {
     width: 100%;
   }
+
   .sidebar {
     border: none;
     padding: 0;
@@ -203,6 +206,7 @@ ul {
     margin-top: 40px;
     width: calc(100% - 40px);
   }
+
   .footer {
     text-align: center;
     padding-top: 57px;
@@ -235,40 +239,51 @@ ul {
   .wrapper {
     padding-left: 25%;
   }
+
   .sidebar {
     margin-left: 30px;
     width: calc(100% - 80px);
   }
+
   .sidebar ul {
     display: block;
     width: 100%;
     /* padding-left: 10px; */
   }
+
   .leadin {
     font-size: 36px;  
     padding-left: 30px;
   }
+
   .leadin2 {
     font-size: 36px;  
     padding-left: 30px;
   }
+
   p {
     padding-left: 30px;
   }
+
   .photos {
     padding-left: 30px;
   }
+
   .tonicphotos {
     padding-left: 30px;
+
   }
   .video {
     padding-left: 30px;
+
   }
   .smalltxt {
     font-size: 16px;
     margin-right: 25px;
     letter-spacing: .75px;
+
   }
+
   .footer {
     text-align: center;
     padding-left: 60px;
