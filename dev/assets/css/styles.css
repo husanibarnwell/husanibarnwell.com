@@ -196,6 +196,10 @@ ul {
   width: 92%;
 }
 
+.fordvideo {
+  width: 92%;
+}
+
 .descriptiontext {
   font-size: 36px;
 }
@@ -338,6 +342,10 @@ ul {
   }
   
   .mmsvideo div { 
+    padding: 75% 0 0 120% !important; 
+  }
+
+  .fordvideo div { 
     padding: 75% 0 0 120% !important; 
   }
 
