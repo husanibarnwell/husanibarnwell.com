@@ -170,7 +170,26 @@ ul {
   width: 40%;
 }
 
+.megaprint img {
+  width: 43%;
+  margin-right: 20px;
+  padding-bottom: 20px; 
+  display: inline-block;
+}
+
+.mmsbillboards img { 
+  width: 87%;
+  margin-top: 20px;
+  /* margin-right: 400px; */
+  /* padding-right: 80px; */
+}
+
 .video div {
+  /* margin-right: 80px; */
+  width: 92%;
+}
+
+.mmsvideo {
   /* margin-right: 80px; */
   width: 92%;
 }
@@ -299,10 +318,28 @@ ul {
     width: 92.5%;
   }
 
+  .megaprint img {
+    width: 37%;
+    margin-right: 1px;
+    margin-left: 30px;
+    display: inline-block;
+  }
+
+  .mmsbillboards img { 
+    width: 87%;
+    padding-left: 30px;
+    margin-top: 20px;
+
   .video {
     padding-left: 30px;
-
   }
+  
+  /* .mmsvideo {
+    margin-right: 80px;
+    width: 52%;
+    padding-left: 70px  !important;
+  } */
+
   .smalltxt {
     font-size: 16px;
     margin-right: 25px;
