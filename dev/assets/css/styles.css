@@ -165,6 +165,11 @@ ul {
   width: 100%
 }
 
+.nbcsmallimage img {
+  padding-top: 20px;
+  width: 40%;
+}
+
 .video div {
   /* margin-right: 80px; */
   width: 92%;
