@@ -173,8 +173,8 @@ ul {
 .video div {
   /* margin-right: 80px; */
   width: 92%;
-
 }
+
 .descriptiontext {
   font-size: 36px;
 }
@@ -294,6 +294,11 @@ ul {
     padding-left: 30px;
   }
 
+  .nbcsmallimage img {
+    padding-left: 30px;
+    width: 92.5%;
+  }
+
   .video {
     padding-left: 30px;
 
@@ -302,7 +307,6 @@ ul {
     font-size: 16px;
     margin-right: 25px;
     letter-spacing: .75px;
-
   }
 
   .footer {
