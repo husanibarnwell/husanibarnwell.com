@@ -129,12 +129,15 @@
     z-index: 10000;
 }
 
+/* Ask Brendan how to change the previous and next arrows within the actual carousel
+as well as how to either reposition them, or make the cursor turn to arrows */
+
 .slick-prev {
     left: 0;
-    background: url('/img/previous.png');
+    background: url('assets/img/previous.png');
 }
 
 .slick-next {
     right: 0;
-    background: url('/img/next.png');
+    background: url('assets/img/next.png');
 }
