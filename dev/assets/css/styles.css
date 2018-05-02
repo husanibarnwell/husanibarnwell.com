@@ -35,6 +35,11 @@ a {
   text-decoration: none;
 }
 
+.project-page a:hover {
+  text-decoration: line-through;
+  color: #A90606;
+}
+
 a.active {
   text-decoration: underline;
 }

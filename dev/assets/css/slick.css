@@ -125,8 +125,11 @@
 
 .slick-arrow {
     position: absolute;
-    top: 50%;
+    top: 0;
+    bottom: 0;
     z-index: 10000;
+    width: 50%;
+    opacity: 0;
 }
 
 /* Ask Brendan how to change the previous and next arrows within the actual carousel
@@ -134,10 +137,10 @@ as well as how to either reposition them, or make the cursor turn to arrows */
 
 .slick-prev {
     left: 0;
-    background: url('assets/img/previous.png');
+    cursor: url('../img/previous.png') 32 28, auto;
 }
 
 .slick-next {
     right: 0;
-    background: url('assets/img/next.png');
+    cursor: url('../img/next.png') 32 28, auto;
 }
