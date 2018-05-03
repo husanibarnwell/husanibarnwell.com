@@ -162,6 +162,14 @@ ul {
   /* padding-right: 80px; */
 }
 
+.cingularphotos img { 
+  width: 92%;
+  margin-top: 20px;
+  border:1px solid #c4c5c5;
+  /* margin-right: 400px; */
+  /* padding-right: 80px; */
+}
+
 .tonicphotos img { 
   width: 92%;
   margin-top: 20px;
@@ -323,6 +331,10 @@ ul {
   }
 
   .photos {
+    padding-left: 30px;
+  }
+
+  .cingularphotos {
     padding-left: 30px;
   }
 
