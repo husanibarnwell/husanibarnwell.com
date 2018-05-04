@@ -254,7 +254,7 @@ ul {
   padding-bottom: 80px;
 }
 
-@media screen and (max-width: 1150px) {
+  @media screen and (max-width: 1150px) {
   .content {
     width: 100%;
   }
