@@ -180,6 +180,14 @@ ul {
   /* margin-right: 400px; */
   border:1px solid #c4c5c5;
 }
+
+.datavizphotos img { 
+  width: 92%;
+  margin-top: 20px;
+  /* margin-right: 400px; */
+  border:1px solid #c4c5c5;
+}
+
 .dubaifalcon {
   width: 100%
 }
@@ -343,6 +351,10 @@ ul {
   }
 
   .tonicphotos {
+    padding-left: 30px !important;
+  }
+
+  .datavizphotos {
     padding-left: 30px !important;
   }
 
