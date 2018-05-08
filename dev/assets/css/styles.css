@@ -59,7 +59,7 @@ a.active {
 }
 
 p {
-  line-height: 25px;
+  line-height: 1.8;
   padding-left: -50px;
   letter-spacing: 1px;
 }
@@ -418,4 +418,16 @@ ul {
 
   .voyrpresslogoswrapper img {
     padding-left: 30px;
+  }
+
+  .bump-up {
+    top:-100px !important;
+  }
+  
+  .bump-up2 {
+    top:-200px !important;
+  }
+  
+  .bump-up3 {
+    top: -600px !important;
   }
