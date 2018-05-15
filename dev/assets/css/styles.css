@@ -330,8 +330,10 @@ ul {
   }
 
   .leadin {
-    font-size: 36px;  
+    font-size: 20px;  
     padding-left: 30px;
+    padding-top: 30px;
+    line-height: 32px;
   }
 
   .leadin2 {
