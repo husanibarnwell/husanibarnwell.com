@@ -65,9 +65,10 @@ p {
 }
 
 .smalltxt {
-  font-size: 16px;
+  font-size: 20px;
   margin-right: 150px;
   letter-spacing: .75px;
+  max-width: 840px;
 }
 
 .bump-up {
