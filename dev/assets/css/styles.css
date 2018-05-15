@@ -313,7 +313,7 @@ ul {
     width: 35%;
     }
 
-@media screen and (max-width: 700px) {
+  @media screen and (max-width: 700px) {
   .wrapper {
     padding-left: 25%;
   }
