@@ -228,6 +228,7 @@ ul {
 
 .descriptiontext {
   font-size: 36px;
+  margin-top: -2px;
 }
 
 .footer {
@@ -343,6 +344,7 @@ ul {
 
   .descriptiontext {
     line-height: 32px;
+    margin-top: 13px;
   }
 
   p {
