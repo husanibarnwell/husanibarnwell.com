@@ -1,0 +1,73 @@
+body {
+      background-color: #A90606;
+      color: #ffffff;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 18px;
+      /* letter-spacing: .0008em; */
+}
+
+.wrapper {
+        
+        width: 90%;
+        margin: 0 auto;
+}
+
+.top {
+        font-size: 0;
+        border-bottom: 10px solid white;
+}
+
+h1 {
+        display: inline-block;
+        width: 60%;
+        color: black;
+        font-size: 40px;
+}
+
+h2 {
+        letter-spacing: .5px;
+}
+
+.logo {
+        width: 40px;
+        position: relative;
+        top: 12px;
+        margin-right: 20px;
+}
+
+.bottom {
+        border-top: 1px solid white;
+        height: 250px;
+        letter-spacing: 1.5px;
+}
+
+.main {
+        height: 770px;
+        letter-spacing: 1.5px;
+}
+
+.info {
+        display: inline-block;
+        width: 15%;
+        font-size: 12px;
+        letter-spacing: .1px;
+        padding-left: 13px;
+        line-height: 18px;      
+}
+
+a {
+        color: black;
+}
+
+.subtext {
+        letter-spacing: .1em;
+}
+
+@media screen and (max-width: 700px) {
+.main {
+        height: 950px;
+}
+
+h1 {
+        font-size: 30px;
+}
